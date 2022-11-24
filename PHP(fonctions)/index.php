@@ -19,10 +19,6 @@
         }
     ?>
         <p>La facotrielle de 7 vaut <?= Factorielle(7) ?> </p>
-
-
-
-
 </body>
 </html>
 
