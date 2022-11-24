@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(202, 187, 187);
+}
+
+.containeur{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+fieldset{
+    color: grey;
+    background-color: black;
+    border-radius: 50px;
+}
+
+legend{
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+    font-size: 150%;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.bouton{
+    justify-content: center;
+    margin-left: 40%;
+}
